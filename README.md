@@ -1,7 +1,6 @@
 # 🌟 MEKONG STEM - ƯƠM MẦM CÔNG NGHỆ, KHAI PHÓNG TƯƠNG LAI 🌟
 
-### 🚀 Đơn Vị Tiên Phong Trong Lĩnh Vực Giáo Dục STEM Tại Cà Mau Và Khu Vực Đồng Bằng Sông Cửu Long
-
+### 🚀 Đơn Vị Tiên Phong Trong Lĩnh Vực Giáo Dục STEM Tại Cà Mau
 Giáo dục STEM là phương pháp giáo dục tích hợp, kết hợp kiến thức và kỹ năng từ bốn lĩnh vực: **Khoa học (Science)**, **Công nghệ (Technology)**, **Kỹ thuật (Engineering)** và **Toán học (Mathematics)**. Tại **Mekong STEM**, chúng tôi tin rằng đây chính là nền tảng giúp thế hệ trẻ được tiếp cận, định hướng bản thân để vươn xa trong thời đại số – nơi mà tư duy logic, sáng tạo và khả năng giải quyết vấn đề là những kỹ năng cốt lõi không thể thiếu.
 
 ---
@@ -60,8 +59,9 @@ Chương trình được xây dựng bài bản theo lộ trình từ cơ bản 
 
 ## 📞 THÔNG TIN LIÊN HỆ & TƯ VẤN CHƯƠNG TRÌNH
 
-*   📱 **Hotline / Zalo hỗ trợ:** `0814 888 040`
-*   🌐 **Fanpage Facebook:** [Mekong STEM - Ươm mầm công nghệ, khai phóng tương lai](link-fanpage-cua-ban)
-*    
+*   📱 **Hotline / Zalo hỗ trợ:** `0814 888 040` và `0703 652 612`
+*   🌐 **Fanpage Facebook:** (https://www.facebook.com/profile.php?id=61579314038291)
+*   📍 **Địa chỉ trung tâm:**Đường số 8, Khu tái định cư khu hành chính văn hoá, thể thao và du lịch, phường An Xuyên, tỉnh Cà Mau.
+*    🌐 **Website:** [mekongstem.com](https://mekongstem.com)
 ---
 *✨ Mekong STEM cam kết luôn đồng hành cùng thế hệ trẻ trên con đường làm chủ công nghệ! ✨*
