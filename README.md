@@ -61,7 +61,7 @@ Chương trình được xây dựng bài bản theo lộ trình từ cơ bản 
 
 *   📱 **Hotline / Zalo hỗ trợ:** `0814 888 040` và `0703 652 612`
 *   🌐 **Fanpage Facebook:** [Trung Tâm Đào Tạo Mekong STEM - Cà Mau](https://www.facebook.com/profile.php?id=61579314038291)
-*   📍 **Địa chỉ trung tâm:** [Đường số 8, Khu tái định cư khu hành chính văn hoá, thể thao và du lịch, phường An Xuyên, tỉnh Cà Mau.]
+*   📍 **Địa chỉ trung tâm:** Đường số 8, Khu tái định cư khu hành chính văn hoá, thể thao và du lịch, phường An Xuyên, tỉnh Cà Mau.
 *    🌐 **Website:** [mekongstem.com](https://mekongstem.com)
 ---
 *✨ Mekong STEM cam kết luôn đồng hành cùng thế hệ trẻ trên con đường làm chủ công nghệ! ✨*
